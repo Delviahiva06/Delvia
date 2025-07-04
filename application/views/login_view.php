@@ -1,0 +1,1 @@
+<a href="<?php echo site_url('signup'); ?>" class="home-link">Sign Up</a> 
